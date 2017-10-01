@@ -5,4 +5,4 @@ Introduction to Phenomena:
 
 Meeting Date:
     
-  Every Monday after school.
+  Monday after school.
