@@ -5,3 +5,5 @@
 
 ### 2. Meeting Date
 - Monday after school
+
+### 3. Pizzas are delicious
